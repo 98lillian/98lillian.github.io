@@ -1,7 +1,7 @@
 ---
 title: 在GitHub上部署Hexo
 date: 2025-1-5 15:35:10
-tags: hexo,github
+tags: hexo,github pages
 ---
 
 
