@@ -40,7 +40,7 @@ tags: hexo,github pages
 3. 在GitHub储存库中前往 Settings > Pages > Source,将source改成 GitHub actions  
 ![deploymentactions](/images/two-creategithub/deploymentactions.png)  
 
-4. 在储存库中建立pages.yml文件  
+4. 在储存库中创建ages.yml文件，文件路径:".github/workflows/pages"  
 ![createpages](images/two-creategithub/createpages.png)  
 
 
