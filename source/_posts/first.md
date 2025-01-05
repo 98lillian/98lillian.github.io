@@ -5,9 +5,9 @@ tags: hexo,github
 ---
 
 
-111
+本文介绍了小白从零部署Hexo，适用零基础的人。
 <!-- more -->
-11
+
 
 # Hexo 部署
 ## 一、Hexo概念：

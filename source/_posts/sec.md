@@ -4,6 +4,8 @@ date: 2025-1-5 15:35:10
 tags: hexo,github pages
 ---
 
+使用GitHub pages部署静态博客的教程。
+<!-- more -->
 
 # 在GitHub上部署Hexo
 #### 此方法适用于公开或私人储存库. 若你不希望将源文件夹上传到 GitHub，请参阅其他相关方法。
