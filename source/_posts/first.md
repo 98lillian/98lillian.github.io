@@ -1,5 +1,5 @@
 ---
-title: 从零部署hexo
+title: 从零部署Hexo
 date: 2024-12-29 18:49:10
 tags: hexo,github pages
 ---
