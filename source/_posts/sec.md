@@ -34,7 +34,7 @@ tags: hexo,github pages
 2. 将main分支上传到GitHub上`git push -u origin main`  
      若未更新内容上传，终端则会显示：  
      ![emptygitpush](/images/two-creategithub/emptygitpush.png)   
-     若更新了内容上传，终端则会现实：  
+     若更新了内容上传，终端则会显示：  
      ![fullgitpush](/images/two-creategithub/fullgitpush.png)  
 
 3. 在GitHub储存库中前往 Settings > Pages > Source,将source改成 GitHub actions  
