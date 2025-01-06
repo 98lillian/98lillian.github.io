@@ -51,6 +51,6 @@ tags: github pages，blog
 
 ### 查看文章
 上传成功后，便可以在https://XXX.github.io/网页上面看到该文章啦  
-![article]()
+![article](/images/three-acticle/article.png)
 
 
