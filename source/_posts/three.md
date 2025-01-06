@@ -34,8 +34,8 @@ tags: github pages，blog
 2. 若涉及到需要上传图片，则要在与_posts同目录下创建一个存放图片的文件夹（如images）  
 ![images](/images/three-acticle/images.png) 
 
-### 编写文章  
-在vs code中打开md文件，并进行文章编写
+### 编写文章
+1. 在vs code中打开md文件，并进行文章编写  
 ![modifyaticle](/images/three-acticle/modifyaticle.png)  
 
 ### 上传文章
@@ -49,8 +49,8 @@ tags: github pages，blog
 注：黄色圆点表示正在运行，红色叉叉表示失败，绿色勾勾便是已经完成 
 ![actions](/images/three-acticle/actions.png)  
 
-### 查看文章
-上传成功后，便可以在https://XXX.github.io/网页上面看到该文章啦  
-![article](/images/three-acticle/article.png)
+### 查看文章  
+1. 上传成功后，便可以在https://XXX.github.io/网页上面看到该文章啦    
+    ![article](/images/three-acticle/article.png)
 
 
