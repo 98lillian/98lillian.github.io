@@ -1,6 +1,6 @@
 ---
 title: 在部署好的GitHub上面发布文章
-date: 2025-1-5 14:50:10
+date: 2025-1-6 14:50:10
 tags: github pages，blog
 ---
 
@@ -34,7 +34,7 @@ tags: github pages，blog
 2. 若涉及到需要上传图片，则要在与_posts同目录下创建一个存放图片的文件夹（如images）  
 ![images](/images/three-acticle/images.png) 
 
-### 编写文章
+### 编写文章  
 在vs code中打开md文件，并进行文章编写
 ![modifyaticle](/images/three-acticle/modifyaticle.png)  
 
@@ -42,8 +42,8 @@ tags: github pages，blog
 在vs code上传后，可以到GitHub上查看上传状态  
 
 1. 将编辑好的文件上传至GitHub(如three.md)  
-![commit]()  
-![sync]()   
+![commit](/images/three-acticle/commit.png)  
+![sync](/images/three-acticle/sync.png)   
 
 2. 上传后，在GitHub中的Action模块中，便可以看到上传进度了。  
 注：黄色圆点表示正在运行，红色叉叉表示失败，绿色勾勾便是已经完成 
