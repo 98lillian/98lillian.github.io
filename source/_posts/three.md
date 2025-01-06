@@ -14,10 +14,10 @@ tags: github pages，blog
 #### 安装好Visual Studio Code软件，并了解一些markdown的知识。
 
 ## 二、获取GitHub存储库
-若已经将GitHub文件拉到本地的话，可以跳过。
+#### 若已经将GitHub文件拉到本地的话，可以跳过。
 
 ### 克隆到本机
-在https://github.com/上与powershell操作   
+在https://github.com/ 上与powershell操作   
 
 1. 将GitHub上的网址复制下来  
 ![githubhttp](/images/three-acticle/githubhttp.png)  
@@ -26,7 +26,7 @@ tags: github pages，blog
 ![gitclone](/images/three-acticle/gitclone.png)  
 
 ### 创建文章
-本地文件夹路径：./XXX.github.io > source > _posts/images  
+本地文件夹路径：./XXX.github.io/source/_posts或images  
 
 1. 按照路径，找到_posts文件夹，在里面建立自己所需要编写上传的md文章(如three.md)  
 ![posts](/images/three-acticle/posts.png)  
@@ -41,16 +41,22 @@ tags: github pages，blog
 ### 上传文章
 在vs code上传后，可以到GitHub上查看上传状态  
 
-1. 将编辑好的文件上传至GitHub(如three.md)  
+1. 将编辑好的文件上传至GitHub。  
+先命名，然后依次进行commit与Sync提交(如threec)  
 ![commit](/images/three-acticle/commit.png)  
 ![sync](/images/three-acticle/sync.png)   
 
-2. 上传后，在GitHub中的Action模块中，便可以看到上传进度了。  
+2. 上传后，在GitHub中的Action模块中，便可以看到上传进度了  
 注：黄色圆点表示正在运行，红色叉叉表示失败，绿色勾勾便是已经完成 
 ![actions](/images/three-acticle/actions.png)  
 
 ### 查看文章  
-1. 上传成功后，便可以在https://XXX.github.io/网页上面看到该文章啦    
-    ![article](/images/three-acticle/article.png)
+1. 上传成功后，便可以在https://XXX.github.io/ 网页上面看到该文啦  
+![article](/images/three-acticle/article.png)
+
+## 三、参考文献
+1、参考链接： https://hexo.io/zh-cn/docs/writing  
+2、参考链接： https://markdown.com.cn/basic-syntax/
+
 
 
